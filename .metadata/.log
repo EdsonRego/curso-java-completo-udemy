@@ -6827,3 +6827,84 @@ java.lang.Exception: Resource '/curso-java-15-tratamento-de-excecoes-hotel-soluc
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:05:38.525
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:05:38.527
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:05:38.528
+!MESSAGE buffering callback sts4.classpath.SsQBXAWv curso-java-15-tratamento-de-excecoes-hotel-solucao-ruim false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:05:38.529
+!MESSAGE executing callback sts4.classpath.SsQBXAWv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:05:38.548
+!MESSAGE executing callback sts4.classpath.SsQBXAWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:06:28.292
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:06:28.293
+!MESSAGE buffering callback sts4.classpath.SsQBXAWv curso-java-15-tratamento-de-excecoes-hotel-solucao-muito-ruim true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:06:28.296
+!MESSAGE executing callback sts4.classpath.SsQBXAWv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 09:06:28.357
+!MESSAGE executing callback sts4.classpath.SsQBXAWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:11.769
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:11.770
+!MESSAGE buffering callback sts4.classpath.SsQBXAWv curso-java-15-tratamento-de-excecoes-hotel-solucao-ruim true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:11.771
+!MESSAGE executing callback sts4.classpath.SsQBXAWv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:11.893
+!MESSAGE executing callback sts4.classpath.SsQBXAWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:26.619
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:26.622
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:26.623
+!MESSAGE buffering callback sts4.classpath.SsQBXAWv curso-java-15-tratamento-de-excecoes-hotel-solucao-boa false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:26.625
+!MESSAGE executing callback sts4.classpath.SsQBXAWv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:26.679
+!MESSAGE executing callback sts4.classpath.SsQBXAWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:32.606
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:32.608
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:32.609
+!MESSAGE buffering callback sts4.classpath.SsQBXAWv curso-java-15-tratamento-de-excecoes-hotel-solucao-ruim false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:32.610
+!MESSAGE executing callback sts4.classpath.SsQBXAWv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:15:32.653
+!MESSAGE executing callback sts4.classpath.SsQBXAWv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:16:03.887
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:16:03.888
+!MESSAGE buffering callback sts4.classpath.SsQBXAWv curso-java-15-tratamento-de-excecoes-hotel-solucao-ruim true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:16:03.889
+!MESSAGE executing callback sts4.classpath.SsQBXAWv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 11:16:03.952
+!MESSAGE executing callback sts4.classpath.SsQBXAWv SUCCESS [done]
