@@ -7,7 +7,26 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_programacao"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_17_trabalhando_com_arquivos"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_inheritance7"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_polimorfismo2"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_polimorfismo"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_heranca"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_composicao3"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_composicao2"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_composicao1"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_enum"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_date_calendar"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_date"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_matrizes_ex01"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_matrizes"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_list_ex01"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_laco_for_each"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_array"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_hotel"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_vetores"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_estrutura_condicional_banco"/>
+			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_construtores"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
