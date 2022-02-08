@@ -5878,3 +5878,120 @@ java.lang.Exception: Resource '/curso-java-currency/src/Application/Program.java
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:05:31.760
 !MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:35:44.024
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:35:44.026
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:35:44.027
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:35:44.028
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:35:44.042
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:07.263
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:07.264
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:07.265
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes-pilha-de-chamadas-de-metodos false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:07.266
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:07.644
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:19.500
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:19.501
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:19.502
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:45:19.517
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:08.543
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:08.600
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes-pilha-de-chamadas-de-metodos true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:08.601
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:08.607
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:58.024
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:58.026
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:58.027
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-14-tratamento-de-excecoes-bloco-finally false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:58.028
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:53:58.035
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.557
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.559
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-14-tratamento-de-excecoes-bloco-finally true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.560
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.564
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.565
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes-bloco-finally false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.570
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 19:54:09.611
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:03:57.921
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:03:57.924
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes-bloco-finally true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:03:57.926
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:03:57.954
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:04:21.261
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:04:21.263
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:04:21.264
+!MESSAGE buffering callback sts4.classpath.IlKXUeuX curso-java-15-tratamento-de-excecoes-hotel-solucao-ruim false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:04:21.265
+!MESSAGE executing callback sts4.classpath.IlKXUeuX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-07 21:04:21.273
+!MESSAGE executing callback sts4.classpath.IlKXUeuX SUCCESS [done]
