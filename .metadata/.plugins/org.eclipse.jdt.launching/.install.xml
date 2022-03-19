@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/Users/edsonrego/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.2.v20220201-1208/jre" stamp="1647728365393"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home" stamp="1632745897000"/>
+    <entry loc="/Users/edsonrego/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.2.v20220201-1208" stamp="1647728365393"/>
+    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1632745252000"/>
     <entry loc="C:\Program Files\Java\zulu11.50.19-ca-jdk11.0.12-win_x64" stamp="1633529984877"/>
 </dirs>

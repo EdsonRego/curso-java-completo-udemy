@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/edsonrego/Documents/workspaces/ws-eclipse/curso-java-completo-udemy"/>
 			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_17_trabalhando_com_arquivos"/>
 			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_inheritance7"/>
 			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_polimorfismo2"/>
@@ -26,10 +27,17 @@
 			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_hotel"/>
 			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_vetores"/>
 			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_estrutura_condicional_banco"/>
-			<item value="C:\workspaces\ws-eclipse\curso-java-completo-udemy\curso_java_construtores"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="594"/>
+		<item key="DIALOG_Y_ORIGIN" value="376"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
 </section>
